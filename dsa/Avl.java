@@ -1,4 +1,3 @@
-package backend.dsa;
 // time complexity O(log n)
 // because the height of an AVL tree is logarithmic in relation to the number of nodes it contains.
 // The AVL Tree is a type of Binary Search Tree named after two Soviet inventors Georgy Adelson-Velsky and Evgenii Landis who invented the AVL Tree in 1962.

@@ -1,4 +1,3 @@
-package backend.dsa;
 
 public class Avl_1 {
     static class TreeNode {
